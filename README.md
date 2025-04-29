@@ -58,6 +58,9 @@
  git push
 
  # Clonar un repositorio desde Git Bash
+ 
  En la zona donde quieres el repositorio hacer click derecho
+ 
  Despues haz click en Open Git Bash Here
+ 
  En Git Bash usa "git clone -URL del repositorio-" y listo
