@@ -43,7 +43,7 @@
 
  1. Añades el remoto llamado "origin"
  
- git remote add origin <URL-del-repo>
+ git remote add origin "<URL-del-repo>"
  
 
  2. Subes la rama main al remoto y estableces el upstream
